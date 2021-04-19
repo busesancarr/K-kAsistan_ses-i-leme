@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\Ses_Isleme\Ses_Isleme\bin\Debug\Ses_Isleme.exe.config
+C:\Users\asus\source\repos\Ses_Isleme\Ses_Isleme\bin\Debug\Ses_Isleme.exe
+C:\Users\asus\source\repos\Ses_Isleme\Ses_Isleme\bin\Debug\Ses_Isleme.pdb
+C:\Users\asus\source\repos\Ses_Isleme\Ses_Isleme\obj\Debug\Ses_Isleme.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Ses_Isleme\Ses_Isleme\obj\Debug\Ses_Isleme.Form1.resources
+C:\Users\asus\source\repos\Ses_Isleme\Ses_Isleme\obj\Debug\Ses_Isleme.Properties.Resources.resources
+C:\Users\asus\source\repos\Ses_Isleme\Ses_Isleme\obj\Debug\Ses_Isleme.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Ses_Isleme\Ses_Isleme\obj\Debug\Ses_Isleme.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Ses_Isleme\Ses_Isleme\obj\Debug\Ses_Isleme.exe
+C:\Users\asus\source\repos\Ses_Isleme\Ses_Isleme\obj\Debug\Ses_Isleme.pdb
+C:\Users\asus\source\repos\Ses_Isleme\Ses_Isleme\obj\Debug\Interop.SpeechLib.dll
+C:\Users\asus\source\repos\Ses_Isleme\Ses_Isleme\obj\Debug\Ses_Isleme.csproj.ResolveComReference.cache
